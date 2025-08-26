@@ -33,14 +33,14 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: "2'b00"
-  uo[2]: "empty"
-  uo[3]: "full"
-  uo[4]: "rdata[0]"
-  uo[5]: "rdata[1]"
-  uo[6]: "rdata[2]"
-  uo[7]: "rdata[3]"
+  uo[0]: "2'b00"
+  uo[1]: "empty"
+  uo[2]: "full"
+  uo[3]: "rdata[0]"
+  uo[4]: "rdata[1]"
+  uo[5]: "rdata[2]"
+  uo[6]: "rdata[3]"
+  uo[7]: ""
 
   # Bidirectional pins
   uio[0]: ""
